@@ -1,9 +1,9 @@
 # Chamal Gomes
 
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
-- :mailbox: [chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
-- :octocat: [github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
-- :microscope: [https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
+- [:mailbox:chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
+- [:octocat: github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
+- [:microscope: https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
 
 ---
 
@@ -91,6 +91,11 @@
 ---
 
 ## ✍️ Research/Publications
+
+### Publication Statistics 📊
+Cumulative Impact Factor: **34.171**
+
+Total Citations: **64** <a https://scholar.google.com/citations?hl=en&user=eiCdUYgAAAAJ " target="_blank">Google Scholar</a>
 
 ### Masters Thesis 🔬
 *2018 Jun - 2019 June*
