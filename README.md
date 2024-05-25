@@ -107,13 +107,13 @@ Total Citations: **64** <a href="https://scholar.google.com/citations?hl=en&user
 ### University of Melbourne - Mentor
 *2023 Apr - Present*
 - Providing mentorship for students within the faculty of business and economics with academic pathway guidance, career preparation, and sharing of experience to achieve their set goals and challenges.
--  [🔗](https://fbe.unimelb.edu.au/bcom/career/mentoring/career-mentoring-program)(View Programme Information)
+-  [🔗 View Program Information](https://fbe.unimelb.edu.au/bcom/career/mentoring/career-mentoring-program) 
 
 ### Australian Catholic University - Tutor
 *2021 Jun - Present*
 - Tutor at the ACU Clemente program for students with disadvantaged backgrounds.
 - Guiding students with weekly lectures, assignments, and reading material.
-- [🔗](https://www.acu.edu.au/about-acu/community-engagement/clemente-australia)(View Programme Information)
+- [🔗 View Program Information](https://www.acu.edu.au/about-acu/community-engagement/clemente-australia)
 
 ---
 
