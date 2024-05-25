@@ -90,19 +90,19 @@
 
 ---
 
-## 🔬 Research/Publications
+## ✍️ Research/Publications
 
-### Masters Thesis
+### Masters Thesis 🔬
 *2018 Jun - 2019 June*
 - Insurance Fraud Detection with Unsupervised Deep Learning. Introduced a novel methodology for fraud detection and experience analysis using unsupervised deep learning models in collaboration with Centre for Actuarial Science at University of Melbourne and University of Hong-Kong.
 
-### Publications
+### Publications 📜
 *2021*
 - Gomes C, Jin Z, Yang H. Insurance fraud detection with unsupervised deep learning. Journal of Risk and Insurance. 2021 Sep;88(3):591-624, [https://onlinelibrary.wiley.com/doi/10.1111/jori.12359](https://onlinelibrary.wiley.com/doi/10.1111/jori.12359)
 
 ---
 
-## Volunteer
+## Volunteer 👪
 
 ### University of Melbourne - Mentor [👥](https://fbe.unimelb.edu.au/bcom/career/mentoring/career-mentoring-program)
 *2023 Apr - Present*
