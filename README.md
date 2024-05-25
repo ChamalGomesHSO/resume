@@ -7,7 +7,7 @@
 
 ---
 
-## Experience
+##  💼 Experience
 
 ### Healthscope - Data Science Lead
 *2022 Jan - Present*
@@ -50,7 +50,7 @@
 
 ---
 
-## Key Skills
+## 💻 Key Skills
 
 ### Languages
 - Python, VBA, SQL, DAX
@@ -76,7 +76,7 @@
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Bachelor of Commerce (Actuarial Science)
 *University of Melbourne, 2015 - 2017*
@@ -90,7 +90,7 @@
 
 ---
 
-## Research/Publications
+## 🔬 Research/Publications
 
 ### Masters Thesis
 *2018 Jun - 2019 June*
