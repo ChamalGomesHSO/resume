@@ -1,6 +1,9 @@
 # Chamal Gomes
 
-[www.linkedin.com/in/chamal-gomes166](www.linkedin.com/in/chamal-gomes166) | chamalgomes166@gmail.com | +61 449 532 635 | [https://github.com/chamalgomeshso/](https://github.com/chamalgomeshso/)
+[![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
+[![Email](https://img.icons8.com/fluency/20/000000/email.png) chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
+[![Phone](https://img.icons8.com/fluency/20/000000/phone.png) +61 449 532 635](tel:+61449532635)
+[![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
 
 ---
 
