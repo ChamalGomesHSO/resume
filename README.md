@@ -1,3 +1,5 @@
+<!-- To customize the workflows visit the following repo https://github.com/pages-themes/minimal/tree/master -->
+
 ## Summary 
 Passionate about leveraging data-driven insights to revolutionize the healthcare industry, I am a seasoned Data Science Lead with a proven track record of driving strategic initiatives and delivering impactful solutions. With a blend of technical expertise and leadership skills, I thrive in collaborative environments where I can spearhead innovative projects and mentor teams to success.
 
@@ -39,10 +41,9 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ### NMG Consulting - Actuarial Intern/ Modeling Analyst
 *2018 Nov - 2019 Apr*
 
-- Regulatory RBC submissions for clients and assisted the benchmarking of industry RBC data.
-- Supported the Prediction Consulting team in a research effort to demonstrate the application of machine learning methods to fraud detection. Responsible for the model design for unsupervised learning algorithms (e.g. Restricted Boltzmann Machines) and the evaluation of their efficacy against supervised learning techniques.
-- Support the development of certain supervised and unsupervised machine learning models in R and Python, which were tested against their suitability to detect auto insurance fraud application.
-- Creating a report describing the functionality of the models and their advantages and disadvantages with respect to the problem of fraud detection.
+- **Regulatory Reporting and Benchmarking:** Managed Regulatory Risk-Based Capital (RBC) submissions for clients, contributing to the benchmarking of industry RBC data to ensure compliance and enhance strategic decision-making
+- **Machine Learning in Fraud Detection:** Collaborated with the Prediction Consulting team on a research initiative to apply machine learning methods for fraud detection, focusing on model design and performance evaluation
+- **Comprehensive Reporting:** Authored detailed reports documenting the functionality, advantages, and limitations of various machine learning models in the context of fraud detection, providing actionable insights for stakeholders.
 
 ---
 
