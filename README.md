@@ -96,9 +96,8 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ## ✍️ Research/Publications
 
 ### Publication Statistics 📊
-Cumulative Impact Factor: **34.171**
 
-Total Citations: **64** <a https://scholar.google.com/citations?hl=en&user=eiCdUYgAAAAJ " target="_blank">Google Scholar</a>
+Total Citations: **64** <a href="https://scholar.google.com/citations?hl=en&user=eiCdUYgAAAAJ" target="_blank">Google Scholar</a>
 
 ### Masters Thesis 🔬
 *2018 Jun - 2019 June*
