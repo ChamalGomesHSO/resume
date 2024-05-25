@@ -113,6 +113,7 @@ Total Citations: **64** <a href="https://scholar.google.com/citations?hl=en&user
 - Tutor at the ACU Clemente program for students with disadvantaged backgrounds.
 - Guiding students with weekly lectures, assignments, and reading material.
 
+---
 
 ## 📞 Contact
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
