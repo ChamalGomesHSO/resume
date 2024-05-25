@@ -8,9 +8,9 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 
 ## 📞 Contact
 
-| **E-mail**   | <a href="mailto:chamalgomes166@gmail.com"> :mailbox: chamalgomes166@gmail.com</a> | 
+| **📫 E-mail**   | <a href="mailto:chamalgomes166@gmail.com"> chamalgomes166@gmail.com</a> | 
 | **LinkedIn** | <a href="https://www.linkedin.com/in/chamal-gomes166" target="_blank"> Visit Profile </a> |
-| **GitHub**   | <a href="https://github.com/chamalgomeshso/" target="_blank"> :octocat: Visit Profile</a> |
+| **:octocat: GitHub**   | <a href="https://github.com/chamalgomeshso/" target="_blank"> Visit Profile</a> |
 | **ORCI ID**  | <a href="https://github.com/chamalgomeshso/" target="_blank">Visit Profile</a> |
 
 ---
