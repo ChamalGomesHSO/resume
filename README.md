@@ -1,5 +1,8 @@
 # Chamal Gomes
 
+#### Summary 
+Passionate about leveraging data-driven insights to revolutionize the healthcare industry, I am a seasoned Data Science Lead with a proven track record of driving strategic initiatives and delivering impactful solutions. With a blend of technical expertise and leadership skills, I thrive in collaborative environments where I can spearhead innovative projects and mentor teams to success.
+
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
 - [:mailbox:chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
 - [:octocat: github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
