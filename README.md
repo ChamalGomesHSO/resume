@@ -9,7 +9,7 @@
 
 ##  💼 Experience
 
-### ### [![Company Logo](https://example.com/path-to-your-company-logo.png) Healthscope - Data Science Lead](https://www.linkedin.com/company/healthscope)
+### Healthscope - Data Science Lead
 *2022 Jan - Present*
 
 - **Strategic Insight Development:** Formulated and implemented strategies and best practices to enhance the team's understanding of business needs and challenges, delivering actionable insights that drive significant business value.
