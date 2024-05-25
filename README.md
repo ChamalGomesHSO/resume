@@ -116,8 +116,9 @@ Total Citations: **64** <a href="https://scholar.google.com/citations?hl=en&user
 - [🔗 View Program Information](https://www.acu.edu.au/about-acu/community-engagement/clemente-australia)
 
 ---
-
+<!--
 ## 📞 Contact
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
 - [![Email](https://img.icons8.com/fluency/20/000000/email.png) chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
 - [![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
+-->
