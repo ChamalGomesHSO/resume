@@ -80,9 +80,9 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ### Master of Commerce (Actuarial Science)(Research Pathway)
 *University of Melbourne, 2018 - 2019*
 
-### University of Melbourne Commerce Global Scholarship
-*Awards, 2015 - 2017*
+### Awards and Scholarships
 - University of Melbourne USA Travel Scholarship (San Francisco)
+- University of Melbourne Commerce Global Scholarship
 
 ---
 
