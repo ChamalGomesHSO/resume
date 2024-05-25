@@ -3,6 +3,9 @@ title:    Chamal Gomes
 logo: test_image_1.png # Use a relative path to logo image 
 
 description: Advanced Analytics and AI in Healthcare
+- contact 1
+- contact 2
+- contact 3 :octocat:
 
 show_downloads: true
 
