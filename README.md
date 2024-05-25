@@ -3,13 +3,13 @@
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
 - :mailbox: [chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
 - :octocat: [github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
-- :microscope:[https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
+- :microscope: [https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
 
 ---
 
 ##  💼 Experience
 
-### Healthscope - Data Science Lead
+### ### [![Company Logo](https://example.com/path-to-your-company-logo.png) Healthscope - Data Science Lead](https://www.linkedin.com/company/healthscope)
 *2022 Jan - Present*
 
 - **Strategic Insight Development:** Formulated and implemented strategies and best practices to enhance the team's understanding of business needs and challenges, delivering actionable insights that drive significant business value.
