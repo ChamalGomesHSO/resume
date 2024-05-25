@@ -1,4 +1,4 @@
-#### Summary 
+## Summary 
 Passionate about leveraging data-driven insights to revolutionize the healthcare industry, I am a seasoned Data Science Lead with a proven track record of driving strategic initiatives and delivering impactful solutions. With a blend of technical expertise and leadership skills, I thrive in collaborative environments where I can spearhead innovative projects and mentor teams to success.
 
 ---
