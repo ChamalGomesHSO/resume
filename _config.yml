@@ -1,1 +1,12 @@
+title: Chamal Resume
 
+logo: test_image.png # Use a relative path to logo image 
+
+description: Data science and AI in Healthcare
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-ta
