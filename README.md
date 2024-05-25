@@ -1,16 +1,16 @@
 #### Summary 
 Passionate about leveraging data-driven insights to revolutionize the healthcare industry, I am a seasoned Data Science Lead with a proven track record of driving strategic initiatives and delivering impactful solutions. With a blend of technical expertise and leadership skills, I thrive in collaborative environments where I can spearhead innovative projects and mentor teams to success.
+  
+[![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
+[![Email](https://img.icons8.com/fluency/20/000000/email.png) chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
+[![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
 
-- [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
-- [:mailbox: chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
-- [:octocat: github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
-- [:microscope: https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
 
 ## 📞 Contact
 
 | **📫 E-mail**   | <a href="mailto:chamalgomes166@gmail.com"> chamalgomes166@gmail.com</a> | 
 | **LinkedIn** | <a href="https://www.linkedin.com/in/chamal-gomes166" target="_blank"> Visit Profile </a> |
-| **:octocat: GitHub**   | <a href="https://github.com/chamalgomeshso/" target="_blank"> Visit Profile</a> |
+| **GitHub**   | <a href="https://github.com/chamalgomeshso/" target="_blank"> Visit Profile</a> |
 | **ORCI ID**  | <a href="https://github.com/chamalgomeshso/" target="_blank">Visit Profile</a> |
 
 ---
