@@ -3,7 +3,7 @@
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
 - [![Email](https://img.icons8.com/fluency/20/000000/email.png) chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
 - [![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
-- [![ORCID](https://img.icons8.com/ios-filled/20/000000/orcid.png) https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
+- [![ORCID](https://img.icons8.com/color/20/000000/orcid.png) https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
 
 ---
 
