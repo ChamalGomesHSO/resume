@@ -1,8 +1,8 @@
 # Chamal Gomes
 
 - [![LinkedIn](https://img.icons8.com/fluency/20/000000/linkedin.png) www.linkedin.com/in/chamal-gomes166](https://www.linkedin.com/in/chamal-gomes166)
-- [![Email](📫) chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
-- [![GitHub](:octocat:) github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
+- :mailbox: [chamalgomes166@gmail.com](mailto:chamalgomes166@gmail.com)
+- :octocat: [github.com/chamalgomeshso](https://github.com/chamalgomeshso/)
 - [![ORCID]([https://img.icons8.com/color/20/000000/orcid.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/20px-ORCID_iD.svg.png)) https://orcid.org/0000-0001-8127-4481](https://orcid.org/0000-0001-8127-4481)
 
 ---
