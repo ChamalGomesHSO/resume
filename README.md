@@ -17,11 +17,11 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
   - *Automated Staff Rostering 21/22 [🔗](https://www.afr.com/work-and-careers/workplace/how-bosses-are-using-gen-ai-to-work-smarter-better-20240212-p5f45g):* Developed a 10-week and 72-hour forecast model for optimized and automated staff scheduling across 160+ hospital wards.
   - *Automated Finance Forecast 22/23:* Created an episodic revenue model to enhance finance forecasting and ensure SOX-compliant journal posting.
   - *Revenue/Coding Optimisation via LLMs 22/23:* Utilized large language models (LLMs) to analyze patient medical records, improving patient care and optimizing coding and billing processes.
-- **ML Ops Architect:** Designed and implemented high-performance Azure ML pipeline architectures for efficient ML Ops, LLM Ops, incorporating GitHub CI/CD for streamlined integration and deployment processes.
+- **ML Ops Architect:** Designed and implemented high-performance Azure ML pipeline architectures for efficient ML Ops, Azure Dev Ops, incorporating GitHub CI/CD for streamlined integration and deployment processes.
 - **Mentorship and Training:** Mentored junior data scientists and analysts, providing expert guidance on best practices in data science, machine learning, and analytics. Developed and led comprehensive training sessions to enhance team capabilities and foster continuous professional growth.
 - **Cloud Data Warehouse Migration:** Designed and developed DBT models in Snowflake as part of a strategic cloud data warehouse migration project. Key models supported critical functions such as patient revenue automation, patient case-mix management, and admission-to-cash flow management.
 
-*Tech-stack: Langchain, Snowflake, Full-stack MLOps, DBT, Python, OpenAI, Git CI/CD, Azure ML DevOps*
+*Tech-stack: LLOps, Snowflake, Full-stack MLOps, DBT, Python, OpenAI, Git CI/CD, Azure ML DevOps*
 
 ---
 
@@ -50,26 +50,26 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ## 💻 Key Skills
 
 ### Languages
-- Python, VBA, SQL, DAX
+- Python, VBA, DAX
 - ProcSQL, SnowSQL
-- Docker, Bash
+- Bash
 
 ### ML Stack
 - Azure MLOps Full-Stack, LLM Ops
-- Langchain, LLM Prompt Engineering, Kubernetes
-- Azure ML Pipelines CLI v2
+- Docker, CICD
+- Azure ML DevOps, Document Intelligence
 - Batch/Online endpoint deployment
 
 ### Datawarehouse/Dashboards
 - DBT, Snowflake, MicrosoftSQL
 - SSAS Tabular Models, SAS
-- PowerBI Cloud Premium, PowerBI On-Prem
+- PowerBI Pro, PowerBI On-Prem
 
 ### Data Science Stack
 - LLM Modelling, Time-Series Forecasting
 - Causal Factor Analysis, Sentiment Analysis
 - Churn Modelling, Unsupervised Learning
-- Scenario Modelling, Data Drift Analysis
+- Scenario Modelling, Drift Analysis
 
 ---
 
