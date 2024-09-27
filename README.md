@@ -21,7 +21,7 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 - **Mentorship and Training:** Mentored junior data scientists and analysts, providing expert guidance on best practices in data science, machine learning, and analytics. Developed and led comprehensive training sessions to enhance team capabilities and foster continuous professional growth.
 - **Cloud Data Warehouse Migration:** Designed and developed DBT models in Snowflake as part of a strategic cloud data warehouse migration project. Key models supported critical functions such as patient revenue automation, patient case-mix management, and admission-to-cash flow management.
 
-*Tech-stack: LLOps, Snowflake, Full-stack MLOps, DBT, Python, OpenAI, Git CI/CD, Azure ML DevOps*
+*Tech-stack: LLMOps, Snowflake, Full-stack MLOps, DBT, Python, OpenAI, Git CI/CD, Azure ML DevOps*
 
 ---
 
