@@ -50,10 +50,10 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ## 💻 Key Skills
 
 ### Languages
-- Python: <span style="color:green;">●●●●●</span>  
-- SnowSQL: <span style="color:green;">●●●●</span><span style="color:lightgray;">●</span>  
-- Rust: <span style="color:green;">●●●</span><span style="color:lightgray;">●●</span>  
-- TypeScript: <span style="color:green;">●●</span><span style="color:lightgray;">●●●</span>  
+- **Python** ⚫⚫⚫⚫⚫ (5/5)
+- **SnowSQL** ⚫⚫⚫⚫⚪ (4/5)
+- **Rust** ⚫⚫⚫⚪⚪ (3/5)
+- **TypeScript** ⚫⚫⚪⚪⚪ (2/5)
 
 ### ML Stack
 - Azure MLOps Full-Stack, LLM Ops
