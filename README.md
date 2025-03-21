@@ -50,9 +50,10 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ## 💻 Key Skills
 
 ### Languages
-- Python, VBA, DAX
-- ProcSQL, SnowSQL
-- Bash
+- Python: <span style="color:green;">●●●●●</span>  
+- SnowSQL: <span style="color:green;">●●●●</span><span style="color:lightgray;">●</span>  
+- Rust: <span style="color:green;">●●●</span><span style="color:lightgray;">●●</span>  
+- TypeScript: <span style="color:green;">●●</span><span style="color:lightgray;">●●●</span>  
 
 ### ML Stack
 - Azure MLOps Full-Stack, LLM Ops
