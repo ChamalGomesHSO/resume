@@ -58,11 +58,11 @@ Principal data science leader with deep expertise in production ML systems, Pyth
 ### 🧩 System Design
 - **LLM Workflows** – RAG, fallbacks, prompt chaining  
 - **OSS Models** – Integration, quantization, inference  
-- **Frameworks** – LangChain, `llama.cpp`, Pydantic  
+- **Frameworks** – `LangChain`, `llama.cpp`, `Pydantic`  
 - **Prototyping** – PoCs with ReactJS & FastAPI
 
 ### ⚙️ MLOps & Infrastructure
-- **Reproducibility** – Nix, Docker  
+- **Reproducibility** – `Nix`, `Docker `
 - **CI/CD** – GitHub Actions, AzureML CLI  
 - **IaC** – Terraform, AzureML workspace orchestration  
 - **Automation** – `just`, component scaffolding
