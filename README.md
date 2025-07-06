@@ -1,7 +1,7 @@
 <!-- To customize the workflows visit the following repo https://github.com/pages-themes/minimal/tree/master -->
 
 ## Summary 
-Passionate about leveraging data-driven insights to revolutionize the healthcare industry, I am a seasoned Data Science Lead with a proven track record of driving strategic initiatives and delivering impactful solutions. With a blend of technical expertise and leadership skills, I thrive in collaborative environments where I can spearhead innovative projects and mentor teams to success.
+Principal data science leader with deep expertise in production ML systems, Python infrastructure, and LLM deployment. Proven record architecting end-to-end ML pipelines and enterprise-grade ML Ops in regulated healthcare. Delivers automation-first engineering and high-impact AI across clinical and financial domains.
 
 ---
 
@@ -10,31 +10,31 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 ### Healthscope - Data Science Lead
 *2022 Jan - Present*
 
-- **Strategic Insight Development:** Formulated and implemented strategies and best practices to enhance the team's understanding of business needs and challenges, delivering actionable insights that drive significant business value.
-- **Cross-functional Collaboration:** Partnered with internal teams and key stakeholders to thoroughly understand and address diverse healthcare domain challenges, proposing and executing effective, data-driven solutions.
-- **Technical Leadership:** Lead a high-performing data science team, ensuring the successful execution of impactful projects within budget and time constraints, while maintaining high standards of quality and efficiency. 
-- **Innovation for Healthcare Operations:** Identification and implementation of bespoke solutions for optimizing healthcare operations with predictive analytics, process automation and Machine Learning. Notable projects include:
-  - *Automated Staff Rostering 21/22 [🔗](https://www.afr.com/work-and-careers/workplace/how-bosses-are-using-gen-ai-to-work-smarter-better-20240212-p5f45g):* Developed a 10-week and 72-hour forecast model for optimized and automated staff scheduling across 160+ hospital wards.
-  - *Automated Finance Forecast 22/23:* Created an episodic revenue model to enhance finance forecasting and ensure SOX-compliant journal posting.
-  - *Revenue/Coding Optimisation via LLMs 22/23:* Utilized large language models (LLMs) to analyze patient medical records for improving patient care and optimizing revenue cycle management process.
-- **ML Ops Architect:** Designed and implemented high-performance Azure ML pipeline architectures for efficient ML Ops, Azure Dev Ops, incorporating GitHub CI/CD for streamlined integration and deployment processes.
-- **Mentorship and Training:** Mentored junior data scientists and analysts, providing expert guidance on best practices in data science, machine learning, and analytics. Developed and led comprehensive training sessions to enhance team capabilities and foster continuous professional growth.
-- **Cloud Data Warehouse Migration:** Designed and developed DBT models in Snowflake as part of a strategic cloud data warehouse migration project. Key models supported critical functions such as patient revenue automation, patient case-mix management, and admission-to-cash flow management.
-
-*Tech-stack: LLMOps, Snowflake, Full-stack MLOps, DBT, Python, OpenAI, Git CI/CD, Azure ML DevOps*
+- **Principal Data Science Lead across 40+ hospitals:** Architected and led the delivery of machine learning systems and analytics solutions within Australia’s second-largest private healthcare provider, enabling cross-team reuse, intelligent automation, and measurable business ROI.
+- **Innovation for Healthcare Operations:** Designed production ML systems that improved operational efficiency, patient care, and financial forecasting:
+  - *Automated Staff Rostering  [🔗](https://www.afr.com/work-and-careers/workplace/how-bosses-are-using-gen-ai-to-work-smarter-better-20240212-p5f45g):* Developed a 10-week and 72-hour forecast model for automated staff scheduling across 160+ hospital wards.
+  - *Automated Finance Forecast:* Built episodic revenue model to support accurate finance forecasting and SOX-compliant journal posting.
+  - *Revenue/Coding Optimization:* Used LLMs to analyze EMR data and enhance patient care and revenue cycle performance.
+  - *Preadmission clinic automation:* Deployed NLP + LLM pipeline to identify high-risk patients for early intervention and improved care.
+  - *Accounts Payable Automation:* Used Azure Document Intelligence to streamline invoice processing and improve accrual accuracy.
+- **ML Ops Platform Architect:** Built AzureML infrastructure to enable secure and scalable ML experimentation and deployment. Including workspace isolation, role-based access, and compute orchestration—laying the foundation for long-term platform reuse and AI governance.
+- **Advanced ML Engineering:** Built mono-repo-based Python ML systems with SoTA tools, robust test frameworks and task automation. Emphasized clean architecture and infrastructure-as-code for production-grade deployment and maintainability.
+- **Data Engineering and Dashboards:** Designed DBT models feeding Azure Data Factory pipelines for deployed ML systems. Integrated PowerBI dashboards directly with model outputs to support decision-making across finance, clinical and ops.
+- **Mentorship and Technical Uplift:**
+    Led internal workshops on test-driven scalable ML system design and experimentation patterns. Championed robust engineering practices and helped elevate junior team members’ Python and ML Ops proficiency.
+- **Stakeholder Engagement:** Collaborated with executive, finance, and clinical teams to align ML investments with strategic goals. Translated technical outcomes into business impact narratives to guide adoption and funding.
 
 ---
 
 ### Healthscope - Data Analyst
 *2020 Jan - 2021 Dec*
 
-- **Systems Integration:** Integration of core clinical and non-clinical hospital source application systems to establish a robust on-premises data warehouse, ensuring seamless data consolidation and accessibility.
+- **Systems Integration:** Integration of core clinical and non-clinical hospital source application systems to establish a robust on-premises data warehouse, ensuring seamless data consolidation and accessibility. (WebPAS, Dimensions, Tech1, Riskman, etc)
 - **Financial Modeling:** Development of financial projection models utilised to identify market share by case-mix acuity and demography.
 - **Advanced Predictive Analytics:** Applied survival modeling techniques to analyze the probability distribution of hospital-acquired complications and patient readmissions, providing critical insights for risk management.
 - **Machine Learning for Healthcare Operations:** Designed revenue and clinical cost decomposition models accounting for inflation and case-mix changes, facilitating benchmarking of best practices across the hospital portfolio.
 - **Operational Dashboards:** Developed and maintained a comprehensive suite of operational healthcare dashboards, fostering a culture of evidence-based decision-making and driving operational improvements across hospitals.
-
-*Tech-stack: On-Prem Datawarehouse, DAX, PowerBI, SSAS, SAS, Tabular Modelling, M-SQL, VBA, MQuery*
+- **Cloud Data Warehouse Migration:** Designed and developed DBT models as part of a strategic cloud data warehouse migration project. Key models supported include patient invoicing, patient case-mix management, and admission-to-cash flow management.
 
 ---
 
@@ -49,28 +49,29 @@ Passionate about leveraging data-driven insights to revolutionize the healthcare
 
 ## 💻 Key Skills
 
-### Languages
-- **Python** ⚫⚫⚫⚫⚫ (5/5)
-- **SnowSQL** ⚫⚫⚫⚫⚪ (4/5)
-- **Rust** ⚫⚫⚫⚪⚪ (3/5)
-- **TypeScript** ⚫⚫⚪⚪⚪ (2/5)
+### 🛠️ ML Engineering
+- **Tooling** – Mono-repo infra (`uv`, `ty`, `ruff`)
+- **QA** – Pytest, coverage, static typing
+- **Performance** – Profiling, regression checks
+- **Pipelines** – Staged training, batch & streaming inference
 
-### ML Stack
-- Azure MLOps Full-Stack, LLM Ops
-- Docker, CICD
-- Azure ML DevOps, Document Intelligence
-- Batch/Online endpoint deployment
+### 🧩 System Design
+- **LLM Workflows** – RAG, fallbacks, prompt chaining  
+- **OSS Models** – Integration, quantization, inference  
+- **Frameworks** – LangChain, `llama.cpp`, Pydantic  
+- **Prototyping** – PoCs with ReactJS & FastAPI
 
-### Datawarehouse/Dashboards
-- DBT, Snowflake, MicrosoftSQL
-- SSAS Tabular Models, SAS
-- PowerBI Pro, PowerBI On-Prem
+### ⚙️ MLOps & Infrastructure
+- **Reproducibility** – Nix, Docker  
+- **CI/CD** – GitHub Actions, AzureML CLI  
+- **IaC** – Terraform, AzureML workspace orchestration  
+- **Automation** – `just`, component scaffolding
 
-### Data Science Stack
-- LLM Modelling, Time-Series Forecasting
-- Causal Factor Analysis, Sentiment Analysis
-- Churn Modelling, Unsupervised Learning
-- Scenario Modelling, Drift Analysis
+### 🧱 Data Platform & Analytics
+- **Orchestration** – Azure Data Factory (Snowflake + ML)  
+- **Feature Engineering** – DBT-based SQL modeling  
+- **Dashboards** – Power BI with integrated ML output  
+- **ETL Design** – Composable, incremental patterns
 
 ---
 
